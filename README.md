@@ -1,4 +1,4 @@
-# NLP 
+# NLP - Algumas das muitas maneiras de como fazer análise de tweets
 ###(Pt) 
 Aqui será demonstrado algumas das muitas maneiras de como fazer análise de tweets.
 A base de dados Tweets_Mg.csv está disponível aqui (https://github.com/minerandodados/mdrepo). 
@@ -9,7 +9,7 @@ Fiz uma breve apresentação e ela está disponível no arquivo:  Analise de sen
 O código se enconta no arquivo: Twitter_MG.ipynb
 A base de dados  está disponível no arquivo: Tweets_Mg.csv
 
-# NLP 
+
 ###(En)
 Here we will demonstrate some of the many ways on how to analyze tweets.
 The Tweets_Mg.csv database is available here (https://github.com/minerandodados/mdrepo).
