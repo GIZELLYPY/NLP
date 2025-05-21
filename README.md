@@ -1,5 +1,5 @@
 # NLP - Algumas das muitas maneiras de como fazer análise de tweets
-###(Pt) 
+
 Aqui será demonstrado algumas das muitas maneiras de como fazer análise de tweets.
 A base de dados Tweets_Mg.csv está disponível aqui (https://github.com/minerandodados/mdrepo). 
 Perceba que esta base em csv já contém os sentimentos/classificação de cada Tweet então grande parte do trabalho está facilitado 
