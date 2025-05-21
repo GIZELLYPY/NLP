@@ -9,13 +9,7 @@ Fiz uma breve apresentação e ela está disponível no arquivo:  Analise de sen
 O código se enconta no arquivo: Twitter_MG.ipynb
 A base de dados  está disponível no arquivo: Tweets_Mg.csv
 
-
-###(En)
-Here we will demonstrate some of the many ways on how to analyze tweets.
-The Tweets_Mg.csv database is available here (https://github.com/minerandodados/mdrepo).
-See this csv base already contains the feelings / classification of each Tweet and much of the work is made easier
-and work at level 0 will not start. Note also that this file has a specific topic: Government of Minas Gerais.
-
-I made a brief presentation and it is available in the file: Analysis of feelings on Twitter¶.pptx 
-The code is found in the file: Twitter_MG.ipynb
-The database is available in the file: Tweets_Mg.csv
+Convido todos a lerem o artigo completo (https://medium.com/an%C3%A1lise-de-sentimentos-no-twitter-sobre-o-governo/an%C3%A1lise-de-sentimentos-no-twitter-sobre-o-governo-de-minas-gerais-2b7cdf6615f2)
+e a refletirem sobre a importância da análise de sentimentos nas redes sociais como um meio 
+de engajamento e feedback democrático. 
+Vamos juntos explorar como a tecnologia pode transformar a forma como nos conectamos e interagimos com a política!
